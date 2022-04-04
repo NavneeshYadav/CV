@@ -147,3 +147,9 @@ hr{
      font-size: 0.75rem;
      padding: 20px 0  ;
  }
+ @media only screen and (max-width:500px){
+    
+ .top-container img {
+   display: none;
+ } 
+}
