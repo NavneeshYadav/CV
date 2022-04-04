@@ -155,4 +155,11 @@ hr{
       .top-container h2{
      padding-bottom: 40px;
  }
+     .project-skill-description{
+    clear: right;
+}
+.project-img{
+    margin-bottom: 15px;
+    float: right;
+}
 }
