@@ -152,4 +152,7 @@ hr{
  .top-container img {
    display: none;
  } 
+      .top-container h2{
+     padding-bottom: 40px;
+ }
 }
